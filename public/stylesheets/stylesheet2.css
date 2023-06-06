@@ -1,0 +1,25 @@
+
+
+@media only screen and (max-width: 576px) {
+	#movieBtn{
+		display: none
+	}
+
+	#createBtn{
+		display: none
+	}
+}
+
+@media only screen and (min-width: 576px) {
+	#dropDown{
+	display: none
+	}
+	
+
+}
+
+@media only screen and (min-width: 768px) {
+
+
+}
+?v=$time
